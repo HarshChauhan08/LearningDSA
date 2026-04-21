@@ -96,8 +96,8 @@ Each file contains:
 
 ## 🤝 Connect With Me
 
-* 💼 LinkedIn: [\[Add your LinkedIn\]](https://www.linkedin.com/in/harshchauhan-thinks/)
-* 📂 GitHub: [\[Add your GitHub\]](https://github.com/HarshChauhan08)
+* 💼 LinkedIn: [Harsh's LinkedIn](https://www.linkedin.com/in/harshchauhan-thinks/)
+* 📂 GitHub: [Harsh's GitHub](https://github.com/HarshChauhan08)
 
 ---
 
