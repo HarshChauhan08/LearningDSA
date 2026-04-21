@@ -39,7 +39,7 @@ This repo contains:
 
 | Topic       | Problems Solved |
 | ----------- | --------------- |
-| Arrays      | 0               |
+| Arrays      | 1               |
 | Strings     | 0               |
 | HashMap     | 0               |
 | Linked List | 0               |
